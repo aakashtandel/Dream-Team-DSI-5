@@ -1,2 +1,3 @@
-# Dream-Team-DSI-5-
-DSI 5's Best Team - Nellie Carr, Matt Terribile, Chaim Gluck, and Aakash Tandel 
+# General Assembly's Data Science Immerive Program (Washington DC)
+DSI 5 
+Team Members - Nellie Carr, Matt Terribile, Chaim Gluck, and Aakash Tandel 
